@@ -12,6 +12,7 @@ DEFAULT_FAR = 100
 DEFAULT_EPS = 1e-4
 DEFAULT_BACKGROUND_COLOR = (0, 0, 0)
 
+# todo
 class RasterizeFunction(Function):
     '''
     Definition of differentiable rasterize operation
